@@ -1,0 +1,6 @@
+com\mycompany\dao\SistemaDB.class
+com\mycompany\dao\Conexion.class
+com\mycompany\utilidad\Layout.class
+com\mycompany\sistema\Main.class
+com\mycompany\sistema\Aplicacion.class
+com\mycompany\sistema\sistemaItem.class
